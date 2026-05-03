@@ -30,6 +30,9 @@ Com base nos dados analisados, propus as seguintes ações executivas para a nov
 2. **Estratégia Combinada (B2C + B2B):** Não atuar apenas no varejo direto, mas construir um programa forte de parcerias com clubes de tiro (patrocínio/apoio), pois eles validam a marca para o atirador iniciante e intermediário.
 3. **Quebra de Objeção:** Criação de **"Kits de Amostra"** para distribuição estratégica. Como o mercado exige confiança técnica, reduzir a barreira financeira para a primeira experimentação é crucial para roubar clientes da concorrência líder.
 
+
+## Este projeto foi desenvolvido como resolução de um Case Técnico para uma vaga de Inteligência de Mercado / Analista de Dados
+
 ## 📬 Contato
 **Halina Oliveira**  
 Analista de Dados | SQL • Python • Power BI  
